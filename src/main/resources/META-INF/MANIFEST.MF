@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: main.se.miun.dt176g.anby2001.reactive.AppStart
+
