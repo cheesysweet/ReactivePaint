@@ -1,4 +1,4 @@
-package main.se.miun.dt176g.anby2001.reactive.gui;
+package main.gui;
 
 import javax.swing.*;
 import java.awt.*;

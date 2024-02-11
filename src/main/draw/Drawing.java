@@ -1,7 +1,7 @@
-package main.se.miun.dt176g.anby2001.reactive.draw;
+package main.draw;
 
 
-import main.se.miun.dt176g.anby2001.reactive.shapes.Shape;
+import main.shapes.Shape;
 
 import java.awt.*;
 import java.io.Serializable;

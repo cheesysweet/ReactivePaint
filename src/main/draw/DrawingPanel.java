@@ -1,13 +1,13 @@
-package main.se.miun.dt176g.anby2001.reactive.draw;
+package main.draw;
 
 import io.reactivex.rxjava3.core.Observable;
-import main.se.miun.dt176g.anby2001.reactive.Constants;
-import main.se.miun.dt176g.anby2001.reactive.gui.Menu;
-import main.se.miun.dt176g.anby2001.reactive.shapes.Oval;
-import main.se.miun.dt176g.anby2001.reactive.shapes.Freehand;
-import main.se.miun.dt176g.anby2001.reactive.shapes.Line;
-import main.se.miun.dt176g.anby2001.reactive.shapes.Rectangle;
-import main.se.miun.dt176g.anby2001.reactive.shapes.Shape;
+import main.Constants;
+import main.gui.Menu;
+import main.shapes.Oval;
+import main.shapes.Freehand;
+import main.shapes.Line;
+import main.shapes.Rectangle;
+import main.shapes.Shape;
 
 import java.awt.*;
 import java.awt.event.MouseAdapter;

@@ -1,4 +1,4 @@
-package main.se.miun.dt176g.anby2001.reactive;
+package main;
 
 public interface Constants {
     String Freehand = "Freehand";

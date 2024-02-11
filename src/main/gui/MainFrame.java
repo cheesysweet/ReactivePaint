@@ -1,6 +1,6 @@
-package main.se.miun.dt176g.anby2001.reactive.gui;
+package main.gui;
 
-import main.se.miun.dt176g.anby2001.reactive.draw.DrawingPanel;
+import main.draw.DrawingPanel;
 
 import java.awt.*;
 import javax.swing.*;

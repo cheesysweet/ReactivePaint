@@ -1,6 +1,6 @@
-package main.se.miun.dt176g.anby2001.reactive;
+package main;
 
-import main.se.miun.dt176g.anby2001.reactive.gui.MainFrame;
+import main.gui.MainFrame;
 
 import javax.swing.SwingUtilities;
 

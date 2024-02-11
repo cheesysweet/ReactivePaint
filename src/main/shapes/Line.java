@@ -1,6 +1,6 @@
-package main.se.miun.dt176g.anby2001.reactive.shapes;
+package main.shapes;
 
-import main.se.miun.dt176g.anby2001.reactive.draw.Point;
+import main.draw.Point;
 
 import java.awt.*;
 
@@ -19,7 +19,7 @@ public class Line extends Shape{
      * @param thickness line-thickness
      * @param color color of line
      */
-    public Line(Point cords1, Point cords2, int thickness, Color color) {
+    public Line(main.draw.Point cords1, main.draw.Point cords2, int thickness, Color color) {
         super(cords1, cords2, thickness, color);
     }
 

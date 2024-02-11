@@ -1,4 +1,4 @@
-package main.se.miun.dt176g.anby2001.reactive.multiplayer;
+package main.multiplayer;
 
 import io.reactivex.rxjava3.core.Completable;
 import io.reactivex.rxjava3.core.Observable;
@@ -7,9 +7,9 @@ import io.reactivex.rxjava3.schedulers.Schedulers;
 import io.reactivex.rxjava3.subjects.PublishSubject;
 import io.reactivex.rxjava3.subjects.ReplaySubject;
 import io.reactivex.rxjava3.subjects.Subject;
-import main.se.miun.dt176g.anby2001.reactive.draw.Drawing;
-import main.se.miun.dt176g.anby2001.reactive.draw.DrawingPanel;
-import main.se.miun.dt176g.anby2001.reactive.shapes.Shape;
+import main.draw.Drawing;
+import main.draw.DrawingPanel;
+import main.shapes.Shape;
 
 import java.io.*;
 import java.net.ServerSocket;

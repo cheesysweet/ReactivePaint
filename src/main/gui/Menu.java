@@ -1,12 +1,12 @@
-package main.se.miun.dt176g.anby2001.reactive.gui;
+package main.gui;
 
 import io.reactivex.rxjava3.annotations.NonNull;
 import io.reactivex.rxjava3.core.Observable;
-import main.se.miun.dt176g.anby2001.reactive.Constants;
-import main.se.miun.dt176g.anby2001.reactive.draw.Drawing;
-import main.se.miun.dt176g.anby2001.reactive.draw.DrawingPanel;
-import main.se.miun.dt176g.anby2001.reactive.multiplayer.Client;
-import main.se.miun.dt176g.anby2001.reactive.multiplayer.Server;
+import main.Constants;
+import main.draw.Drawing;
+import main.draw.DrawingPanel;
+import main.multiplayer.Client;
+import main.multiplayer.Server;
 
 import javax.swing.*;
 import java.awt.*;
